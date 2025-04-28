@@ -1,4 +1,4 @@
-undergrad in electrical engineering
+graduate student in electrical engineering
 
 i self host my repos [here](https://git.spub.me/ealker), but i mirror a few on github
 
